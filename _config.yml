@@ -8,7 +8,7 @@ email: "geekfest@cpcc.edu"
 title: "THE Geek Fest"
 
 # Event Information
-event_date: "Thursday, November 9th, 2017"
+event_date: "Thursday, November 8th, 2018"
 event_time: "9am - 3pm"
 event_location: "CPCC's Levine Campus"
 social-media:
@@ -16,7 +16,7 @@ social-media:
   - "twitter": "https://twitter.com/thegeekfest"
   - "github-alt": "https://github.com/thegeekfest/thegeekfest.github.io"
   - "google-plus": "https://plus.google.com/u/0/+centralpiedmontcommunitycollege/"
-interest_form: "http://snapsurvey.cpcc.edu/snapwebhost/s.asp?k=151031992390"
+#interest_form: "http://snapsurvey.cpcc.edu/snapwebhost/s.asp?k=151031992390"
 
 # Where things are
 source:      .
